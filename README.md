@@ -1,7 +1,7 @@
 <div align="center">
 
+## **Hi, I'm Harsh Mahajan** <img src="./assets/Hi.gif" width="50" />
 
-# Hi, I'm Harsh Mahajan <img src="./assets/Hi.gif" width="50" />
 
 **CS & IT Student · Aspiring Full-Stack Developer**
 
@@ -13,16 +13,13 @@ Turning ideas into real-world applications — from clean UI design to efficient
 
 ## 💫 About Me
 
+<img src="./assets/thoughtworks-gif_dribbble.gif" width="380" align="right" />
+
 - 🎓 CS & IT student with a strong foundation in **C++** and **DSA**
 - 🛠️ Building full-stack projects across frontend, backend, and real-time systems
 - 🌱 Always exploring new tools and sharpening my problem-solving skills
 - ⚡ Fun fact: I turn bugs into features when nobody's looking
-
-<div align="right" display="flex">
-  <img src="./assets/thoughtworks-gif_dribbble.gif" width="400" />
-</div>
-
-<br>
+  <br clear="right">
 
 ## 🌐 Socials
 
