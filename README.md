@@ -18,7 +18,7 @@ Turning ideas into real-world applications — from clean UI design to efficient
 - 🌱 Always exploring new tools and sharpening my problem-solving skills
 - ⚡ Fun fact: I turn bugs into features when nobody's looking
 
-<div align="center">
+<div align="right" display="flex">
   <img src="./assets/thoughtworks-gif_dribbble.gif" width="400" />
 </div>
 
