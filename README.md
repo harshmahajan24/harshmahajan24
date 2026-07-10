@@ -15,12 +15,9 @@
 
 - 🎓 CS & IT student with a strong foundation in **C++** and **DSA**
 - 🛠️ Building full-stack projects across frontend, backend, and real-time systems
-- 🌱 Always exploring new tools and sharpening my problem-solving skills
-- 💡 Passionate about solving real-world problems through clean, efficient code
 - 🔭 Currently deepening my skills in the MERN stack and real-time applications
 - 🤝 Enjoy collaborating on projects and learning from the developer community
 - 📚 Constantly practicing DSA to strengthen my problem-solving fundamentals
-- ⚡ Fun fact: I turn bugs into features when nobody's looking
 
   <br clear="right">
 
