@@ -1,14 +1,12 @@
 <div align="center">
 
-## **Hi, I'm Harsh Mahajan** <img src="./assets/Hi.gif" width="50" />
+# Hi, I'm Harsh Mahajan <img src="./assets/Hi.gif" width="50" />
 
+### CS & IT Student · Aspiring Full-Stack Developer
 
-**CS & IT Student · Aspiring Full-Stack Developer**
-
-Turning ideas into real-world applications — from clean UI design to efficient backend systems 🚀
+### Turning ideas into real-world applications — from clean UI design to efficient backend systems 🚀
 
 </div>
-
 <br>
 
 ## 💫 About Me
@@ -18,11 +16,15 @@ Turning ideas into real-world applications — from clean UI design to efficient
 - 🎓 CS & IT student with a strong foundation in **C++** and **DSA**
 - 🛠️ Building full-stack projects across frontend, backend, and real-time systems
 - 🌱 Always exploring new tools and sharpening my problem-solving skills
+- 💡 Passionate about solving real-world problems through clean, efficient code
+- 🔭 Currently deepening my skills in the MERN stack and real-time applications
+- 🤝 Enjoy collaborating on projects and learning from the developer community
+- 📚 Constantly practicing DSA to strengthen my problem-solving fundamentals
 - ⚡ Fun fact: I turn bugs into features when nobody's looking
+
   <br clear="right">
 
 ## 🌐 Socials
-
 <p align="left">
 <a href="https://discord.gg/mUBE8CRAx" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 <a href="https://www.facebook.com/harsh.mahajan.716195" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
@@ -33,7 +35,6 @@ Turning ideas into real-world applications — from clean UI design to efficient
 </p>
 
 ## 💻 Tech Stack
-
 <p align="left">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -45,14 +46,12 @@ Turning ideas into real-world applications — from clean UI design to efficient
 </p>
 
 ## 📊 GitHub Stats
-
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=harshmahajan24&show_icons=true&theme=merko&hide_border=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmahajan24&theme=merko&hide_border=true" height="165" />
 </p>
 
 ## ✍️ Random Dev Quote
-
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </div>
