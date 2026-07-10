@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="./assets/Hi.gif" width="50" />
 
-# Hi, I'm Harsh Mahajan 👋
+# Hi, I'm Harsh Mahajan <img src="./assets/Hi.gif" width="50" />
 
 **CS & IT Student · Aspiring Full-Stack Developer**
 
