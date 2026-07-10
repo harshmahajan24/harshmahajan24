@@ -13,11 +13,11 @@
 
 <img src="./assets/thoughtworks-gif_dribbble.gif" width="380" align="right" />
 
-🎓 CS & IT student with a strong foundation in **C++** and **DSA**
-🛠️ Building full-stack projects across frontend, backend, and real-time systems
-🔭 Currently deepening my skills in the MERN stack and real-time applications
-🤝 Enjoy collaborating on projects and learning from the developer community
-📚 Constantly practicing DSA to strengthen my problem-solving fundamentals
+- 🎓 CS & IT student with a strong foundation in **C++** and **DSA**
+- 🛠️ Building full-stack projects across frontend, backend, and real-time systems
+- 🔭 Currently deepening my skills in the MERN stack and real-time applications
+- 🤝 Enjoy collaborating on projects and learning from the developer community
+- 📚 Constantly practicing DSA to strengthen my problem-solving fundamentals
 
   <br clear="right">
 
