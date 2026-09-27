@@ -56,23 +56,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshmahajan24&show_icons=true&theme=merko&hide_border=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmahajan24&theme=merko&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmahajan24&layout=compact&theme=merko&hide_border=true" height="165" />
-<img src="https://github-readme-trophies.vercel.app/?username=harshmahajan24&theme=algolia&no-frame=true&margin-w=8&row=2&column=3" height="165" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshmahajan24/harshmahajan24/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshmahajan24/harshmahajan24/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshmahajan24/harshmahajan24/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 </p>
 
 ## ✍️ Random Dev Quote
